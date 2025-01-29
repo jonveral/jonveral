@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jonathan Alveraldo!</h1>
+<h1 align="center">Hello, I'm Jonathan Alveraldo!</h1>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhxOGt1eWdtdXZhcWk5Nzh4YnRtYzIydTYzMXRxMGJjamh3Y2kwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okfvUCpgArv3y/giphy.gif" width="500px"/>
 </p>
