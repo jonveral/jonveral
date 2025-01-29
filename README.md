@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jonathanalveraldo"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
-  <a href="https://twitter.com/jonathanalveraldo"><img src="https://img.shields.io/badge/Twitter-%40jonathanalveraldo-1DA1F2?logo=twitter"></a>
-  <a href="mailto:jonathan@example.com"><img src="https://img.shields.io/badge/Email-jonathan@example.com-red?logo=gmail"></a>
+  <a href="https://linkedin.com/in/jonathanalveraldobangun"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
+  <a href="https://www.instagram.com/jonveral"><img src="https://img.shields.io/badge/‎‎‎‎Instagram-%40jonveral-1DA1F2"></a>
+  <a href="mailto:alveraldo.jonathan@gmail.com"><img src="https://img.shields.io/badge/Email-alveraldo.jonathan@gmail.com-red"></a>
 </p>
 
 ---
@@ -49,12 +49,17 @@
 ---
 
 ### **📫 Connect with Me**
-- 🌍 [LinkedIn](https://www.linkedin.com/in/jonathanalveraldobangun)
-- 🐦 [Twitter](https://twitter.com/jonathanalveraldo)
-- 📩 Email: alveraldo.jonathan@gmail.com
+- 📇 [LinkedIn](https://www.linkedin.com/in/jonathanalveraldobangun)
+- ✨ [Instagram](https://www.instagram.com/jonveral)
+- 📬 Email: alveraldo.jonathan@gmail.com
 
 ---
 
 ⭐ **Fun Fact:** `"There are 10 types of people in the world: those who understand binary and those who don't."` 😆
 
 🔥 **Let's code something amazing together!** 🚀
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J4YzZ3a2s4dTZ6bzA3NGxjN2Q3Zm16dTNyN2lwdTBmN3l5dHl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif"/>
+</p>
+
