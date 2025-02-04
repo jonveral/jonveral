@@ -3,12 +3,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhxOGt1eWdtdXZhcWk5Nzh4YnRtYzIydTYzMXRxMGJjamh3Y2kwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okfvUCpgArv3y/giphy.gif" width="500px"/>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/jonathanalveraldobangun"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
-  <a href="https://www.instagram.com/jonveral"><img src="https://img.shields.io/badge/‎‎‎‎Instagram-%40jonveral-1DA1F2"></a>
-  <a href="mailto:alveraldo.jonathan@gmail.com"><img src="https://img.shields.io/badge/Email-alveraldo.jonathan@gmail.com-red"></a>
-</p>
-
 ---
 
 ### **🚀 About Me**
@@ -49,9 +43,17 @@
 ---
 
 ### **📫 Connect with Me**
-- 📇 [LinkedIn](https://www.linkedin.com/in/jonathanalveraldobangun)
-- ✨ [Instagram](https://www.instagram.com/jonveral)
-- 📬 Email: alveraldo.jonathan@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/jonathanalveraldobangun">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alveraldo.jonathan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@jonveral">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 ---
 
